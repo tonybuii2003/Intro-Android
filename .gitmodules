@@ -16,3 +16,6 @@
 [submodule "HW6"]
 	path = HW6
 	url = git@github.com:tonybuii2003/HW6_OwnAPIPart2.git
+[submodule "HW7"]
+	path = HW7
+	url = git@github.com:tonybuii2003/HW7-CYOAPI-Part-3.git
