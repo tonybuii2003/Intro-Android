@@ -7,3 +7,6 @@
 [submodule "HW3"]
 	path = HW3
 	url = git@github.com:tonybuii2003/HW3-AnimalsApp.git
+[submodule "HW4"]
+	path = HW4
+	url = git@github.com:tonybuii2003/CodeMath.git
