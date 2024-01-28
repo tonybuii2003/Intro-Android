@@ -10,3 +10,6 @@
 [submodule "HW4"]
 	path = HW4
 	url = git@github.com:tonybuii2003/CodeMath.git
+[submodule "HW5"]
+	path = HW5
+	url = git@github.com:tonybuii2003/HW5-OwnAPI.git
