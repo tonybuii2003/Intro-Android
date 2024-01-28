@@ -1,3 +1,6 @@
 [submodule "HW1"]
 	path = HW1
 	url = git@github.com:tonybuii2003/HW1-HelloSquirrel.git
+[submodule "HW2"]
+	path = HW2
+	url = git@github.com:tonybuii2003/HW2-Debugathon.git
