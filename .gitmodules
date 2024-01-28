@@ -4,3 +4,6 @@
 [submodule "HW2"]
 	path = HW2
 	url = git@github.com:tonybuii2003/HW2-Debugathon.git
+[submodule "HW3"]
+	path = HW3
+	url = git@github.com:tonybuii2003/HW3-AnimalsApp.git
